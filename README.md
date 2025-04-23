@@ -3,7 +3,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mike-christian-santos-curi-a9472418b/)](https://www.linkedin.com/in/mike-christian-santos-curi-a9472418b/)
 
-Hi, my name is Mike Christian, I'm 24 years old and I really enjoy programming. Today I'm a developer with +8 years of work experience and +10 years studying programming.
+Hi, my name is Mike Christian, I'm 27 years old and I really enjoy programming. Today I'm a developer with +8 years of work experience and +10 years studying programming.
 
 <h2>Some of my skills:</h2>
 
