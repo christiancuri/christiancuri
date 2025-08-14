@@ -73,7 +73,7 @@ Hi, my name is Mike Christian, I'm 27 years old and I really enjoy programming. 
 <hr>
 
 <p align="center">
-    <img alt="Christian Curi's GitHub Stats" height="160em" src="https://github-readme-stats.vercel.app/api?username=christiancuri&theme=material-palenight&show_icons=true">
-    <img alt="Most Used Languages" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christiancuri&hide=html&layout=compact&theme=material-palenight&count_private=true">
+    <img alt="Christian Curi's GitHub Stats" height="160em" src="https://github-readme-stats-eta-blond-92.vercel.app/api?username=christiancuri&theme=material-palenight&show_icons=true">
+    <img alt="Most Used Languages" height="160em" src="https://github-readme-stats-eta-blond-92.vercel.app/api/top-langs/?username=christiancuri&hide=html&layout=compact&theme=material-palenight&count_private=true">
 </p>
 
